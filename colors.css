@@ -19,3 +19,24 @@ footer {
 main {
     font-size: 12px;
 }
+
+h2 {
+    font-family: "Montserrat", sans-serif;
+}
+
+h4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#sub-2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#sub-1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
