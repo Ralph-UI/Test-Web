@@ -167,9 +167,11 @@ button:hover {
 
 .container-1 {
     display: flex;
-    padding-left: 25vw;
     background-color: lightpink;
-
+    max-width: 60vw;
+    justify-content: center;
+    margin-left: 180px;
+    padding-left: 80px
 }
 
 #container1-text {
